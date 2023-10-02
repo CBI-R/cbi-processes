@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to CBI-R's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Microscopy research generates large, multi-dimensional datasets. CBI-R is a unique cloud-based microscopy data visualization, management, annotation and sharing infrastructure. It is an instance of the open source tool OMERO (Open Microscopy Environment Remote Object), a member of the ImageJ open source ecosystem widely used in microscopy. We have created tools to automate metadata annotation and data upload into CBI-R, enabling analysis pipeline storage and access to advanced cloud-based computing for reproducible data analysis. CBI-R supports microscopy data management throughout the data lifecycle, in alignment with findability, accessibility, interoperability, and reusability (FAIR) data and Open Science principles.
 
 .. note::
 
@@ -21,4 +15,4 @@ Contents
    usage
    api
 
-Lumache has its documentation hosted on Read the Docs.
+CBI-R has its documentation hosted on Read the Docs.

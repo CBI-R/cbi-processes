@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CBI-R Procceses Documentation'
+copyright = '2023, Alice Kang'
+author = 'Alice Kang'
 
 release = '0.1'
 version = '0.1.0'
