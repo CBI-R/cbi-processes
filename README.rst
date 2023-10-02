@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+CBI-R Processes
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+All things CBI-R: processes, best practices, setup guides, and more!
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Hosted on readthedocs.
