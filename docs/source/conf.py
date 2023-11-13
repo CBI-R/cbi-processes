@@ -2,12 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
-
-release = '0.1'
-version = '0.1.0'
+project = 'Canada Bio-Imaging Resource'
+copyright = '2023, Alice Kang'
+author = 'Alice Kang'
 
 # -- General configuration
 
