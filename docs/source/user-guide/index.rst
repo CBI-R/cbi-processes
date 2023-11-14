@@ -1,11 +1,11 @@
 ==========
-user guide
+User Guide
 ==========
 
 .. toctree::
   :maxdepth: 3
 
-  how to upload data and metadata <upload>
-  how to login to CBI-R <login>
-  how to make your images public (publishing) <public>
-  how to auto tag <tag>
+  How to Upload Data and Metadata <upload>
+  How to Login to CBI-R <login>
+  How to Make Your Images Public (Publishing) <public>
+  How to Auto Tag <tag>

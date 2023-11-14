@@ -1,6 +1,6 @@
-=============================
-How to upload data + metadata
-=============================
+===============================
+How to Upload Data and Metadata
+===============================
 
 Uploading data through the desktop client (OMERO.insight)
 =========================================================

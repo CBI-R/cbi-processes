@@ -1,5 +1,5 @@
 =====================
-How to login to CBI-R
+How to Login to CBI-R
 =====================
 
 --------------

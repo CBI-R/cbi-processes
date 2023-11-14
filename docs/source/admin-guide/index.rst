@@ -1,9 +1,9 @@
 ===========
-admin guide
+Admin Guide
 ===========
 
 .. toctree::
   :maxdepth: 3
   
-  getting started with OMERO <omero>
-  setting up OMEROImporter <omeroimporter>
+  Getting Started with OMERO <omero>
+  Setting Up OMEROImporter <omeroimporter>

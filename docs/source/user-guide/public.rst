@@ -1,5 +1,5 @@
 ==============================
-How to make your images public
+How to Make Your Images Public
 ==============================
 
 1. Make a request to an administrator for a public group
