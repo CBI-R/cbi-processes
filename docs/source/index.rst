@@ -19,7 +19,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
    
    docs/source/admin-guide/index
    docs/source/user-guide/index
