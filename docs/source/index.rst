@@ -21,5 +21,5 @@ Contents
 .. toctree::
    :maxdepth: 2
    
-   docs/admin-guide/index
-   docs/user-guide/index
+   docs/source/admin-guide/index
+   docs/source/user-guide/index
