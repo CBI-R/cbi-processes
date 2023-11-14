@@ -19,6 +19,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
    :caption: Contents:
    
    docs/source/admin-guide/index

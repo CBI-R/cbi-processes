@@ -1,4 +1,5 @@
 .. toctree::
+  :maxdepth: 3
 
   how to upload data + metadata <upload>
   how to login to CBI-R <login>
