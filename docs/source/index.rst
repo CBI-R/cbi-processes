@@ -20,5 +20,5 @@ Contents
 
 .. toctree::
    
-   docs/source/admin-guide/index
-   docs/source/user-guide/index
+   admin-guide/index
+   user-guide/index
