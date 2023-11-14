@@ -22,5 +22,5 @@ Contents
    :maxdepth: 2
    :caption: Contents:
    
-   docs/source/admin-guide/index
-   docs/source/user-guide/index
+   docs/admin-guide/index
+   docs/user-guide/index
