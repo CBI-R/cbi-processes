@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Canada Bio-Imaging Resource'
+project = 'Canada Bio-Imaging Resource Process Documentation'
 copyright = '2023, Alice Kang'
 author = 'Alice Kang'
 

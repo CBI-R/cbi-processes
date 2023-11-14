@@ -3,8 +3,13 @@ Welcome to the Canada Bio-Imaging Resource's documentation!
 
 This page hosts the documentation and processes for CBI-R.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Microscopy research generates large, multi-dimensional datasets. CBI-R is a unique cloud-based microscopy 
+data visualization, management, annotation and sharing infrastructure. It is an instance of the open source 
+tool OMERO (Open Microscopy Environment Remote Object), a member of the ImageJ open source ecosystem widely 
+used in microscopy. We have created tools to automate metadata annotation and data upload into CBI-R, enabling 
+analysis pipeline storage and access to advanced cloud-based computing for reproducible data analysis. 
+CBI-R supports microscopy data management throughout the data lifecycle, in alignment with findability, 
+accessibility, interoperability, and reusability (FAIR) data and Open Science principles.
 
 .. note::
 
@@ -18,4 +23,3 @@ Contents
    
    docs/source/admin-guide/index
    docs/source/user-guide/index
-   
